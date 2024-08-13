@@ -1,5 +1,21 @@
 # Welcome!
 
+I am a PhD student in Mathematics at the University of California, Santa Barbara, where I study Geometric Analysis under the guidance of Prof. Guofang Wei. My interest lies in comparison geometry under various curvature assumptions. 
+
+I am on the job market for positions starting Fall 2025.
+
+Research Interests:
+I have focused on Sobolev and isoperimetric problems
+I've been working on intermediate Ricci curvature which is an __ between __ and scalar curvature, 
+investigate how to apply this to extend previous results that hgold true fro sectional curvature but are not true for ricci curvature lower bounds.
+another focus of my work lies in integral curvature that measures the amount of curvature above a certain boundary in the Lp sense.
+
+I'm as excited to share math as I am to study it, so I organize a Very Applied Fluid Dynamics seminar which involves the careful study of solution composed by approximately 95% water. 
+I have also embarked on a journey to make the perfect pizza, although this is a lifetime journey. I am happy to share my progress.
+
+
+
+
 I am a postdoctoral researcher in Computer Science at the University of California, Santa Barbara, where I work in Security Lab (SecLab) led by [Dr. Christopher Kruegel](https://scholar.google.com/citations?user=f0NoTC0AAAAJ&hl=en) and [Dr. Giovanni Vigna](https://scholar.google.com/citations?user=2eM6GocAAAAJ&hl=en). My research is centered on Computer Security, specifically focusing on System Security and Formal Methods. The primary aim of my work is to develop automated program analysis tssechniques addressing different security challenges. You can find a list of my publications below or on my [Google Scholar](https://scholar.google.com/citations?user=EX7bNscAAAAJ&hl=en) page.
 
 Before coming to UCSB, I was a postdoctoral researcher at CISPA, where I worked with [Dr. Christian Rossow](https://scholar.google.com/citations?user=lNn4hRMAAAAJ&hl=en).
