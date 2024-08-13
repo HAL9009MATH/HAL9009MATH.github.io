@@ -6,7 +6,7 @@ I am on the job market for positions starting Fall 2025.
 
 Research Interests:
 I have focused on Sobolev and isoperimetric problems
-I've been working on intermediate Ricci curvature which is an __ between __ and scalar curvature, 
+I've been working on intermediate Ricci curvature which is an interpolation between Ricci and sectional curvature.
 I investigate how to apply this to extend previous results that hold true for sectional curvature but are not true for Ricci curvature lower bounds.
 Another focus of my work lies in integral curvature that measures the amount of curvature above a certain boundary in the Lp sense.
 
