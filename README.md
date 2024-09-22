@@ -1,6 +1,6 @@
 # Welcome!
 
-I am a PhD student in Mathematics at the University of California, Santa Barbara, where I study Geometric Analysis under the guidance of Prof. Guofang Wei. My interest lies in comparison geometry under various curvature assumptions. 
+I am a PhD candidate in Mathematics at the University of California, Santa Barbara, where I work in Geometric Analysis under the guidance of [Prof. Guofang Wei]([https://scholar.google.com/citations?user=f0NoTC0AAAAJ&hl=en](https://web.math.ucsb.edu/~wei/)) My research interest lies in geometric inequalities under various curvature assumptions. 
 
 I am on the job market for positions starting Fall 2025.
 
@@ -16,7 +16,7 @@ I have also embarked on a journey to make the perfect pizza, although this is a 
 
 
 
-I am a postdoctoral researcher in Computer Science at the University of California, Santa Barbara, where I work in Security Lab (SecLab) led by [Dr. Christopher Kruegel](https://scholar.google.com/citations?user=f0NoTC0AAAAJ&hl=en) and [Dr. Giovanni Vigna](https://scholar.google.com/citations?user=2eM6GocAAAAJ&hl=en). My research is centered on Computer Security, specifically focusing on System Security and Formal Methods. The primary aim of my work is to develop automated program analysis tssechniques addressing different security challenges. You can find a list of my publications below or on my [Google Scholar](https://scholar.google.com/citations?user=EX7bNscAAAAJ&hl=en) page.
+I am a postdoctoral researcher in Computer Science at the University of California, Santa Barbara, where I work in Security Lab (SecLab) led by  and [Dr. Giovanni Vigna](https://scholar.google.com/citations?user=2eM6GocAAAAJ&hl=en). My research is centered on Computer Security, specifically focusing on System Security and Formal Methods. The primary aim of my work is to develop automated program analysis tssechniques addressing different security challenges. You can find a list of my publications below or on my [Google Scholar](https://scholar.google.com/citations?user=EX7bNscAAAAJ&hl=en) page.
 
 You can see more about my background in my [CV](https://ylya.github.io/cv.pdf).
 
