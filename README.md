@@ -20,4 +20,4 @@ Feel free to reach out to me at [fabio@math.ucsb.edu](mailto:fabio@math.ucsb.edu
 
 # Publications
 
-[13] De Pasquale, G., Grishchenko, I., Iesari, R., Pizarro, G., Cavallaro, L., Kruegel, C., & Vigna, G.. **ChainReactor: Automated Privilege Escalation Chain Discovery via AI Planning.** USENIX'24 (forthcoming). [[pdf](https://ylya.github.io/papers/usenix24-chainreactor.pdf)]
+[1] **The Log-Sobolev inequality for a submanifold in manifolds with asymptotic non-negative intermediate Ricci curvature, joint with J. Lee.** J Geom Anal 34, 141,. (https://doi.org/10.1007/s12220-024-01581-1)]
