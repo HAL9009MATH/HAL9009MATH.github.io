@@ -11,6 +11,7 @@ I've been working in the non compact setting with non-negative k-intermediate Ri
 I received the [2024 UC Santa Barbara Academic Senate outstanding teaching award]([https://senate.ucsb.edu/~awards/2023-24/]).
 
 I'm as excited to share math as I am to study it, so I organize a Very Applied Fluid Dynamics seminar which involves the careful study of solution composed by approximately 95% water. 
+
 I have also embarked on a journey to make the perfect pizza, although this is a lifetime journey. I am happy to share my progress.
 
 Feel free to reach out to me at [fabio@math.ucsb.edu](mailto:fabio@math.ucsb.edu).
