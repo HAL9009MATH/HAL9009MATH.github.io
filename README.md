@@ -7,7 +7,7 @@ I am on the job market for positions starting Fall 2025.
 Research Interests:
 
 My research focuses on Geometric Analysis and Partial Differential Equations (PDEs), particularly leveraging techniques from Optimal Transport and Comparison Geometry to prove geometric inequalities.
-I've been working in the non compact setting with non-negative k-intermediate Ricci curvature, an interpolation between Ricci and sectional curvature, I considered also the weaker asymptotic version of it. I've also been studying integral curvature which measures deviations of Ricci curvature from the lower bound in the $L_p$ sense.
+I've been working in the non compact setting with non-negative k-intermediate Ricci curvature, an interpolation between Ricci and sectional curvature, I considered also the weaker asymptotic version of it. I've also been studying integral curvature which measures deviations of Ricci curvature from the lower bound in the \$L_p\$ sense.
 
 I received the 2024 UC Santa Barbara Academic Senate outstanding teaching award ([https://senate.ucsb.edu/~awards/2023-24/]).
 
