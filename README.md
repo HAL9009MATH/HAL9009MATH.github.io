@@ -20,4 +20,4 @@ Feel free to reach out to me at [fabio@math.ucsb.edu](mailto:fabio@math.ucsb.edu
 
 [1] **The Log-Sobolev inequality for a submanifold in manifolds with asymptotic non-negative intermediate Ricci curvature, joint with J. Lee.** [J Geom Anal 34, 141, 2024.](https://doi.org/10.1007/s12220-024-01581-1)
 
-[2] **Isoperimetric profile function comparisons with Integral Ricci curvature bounds, joint with J. Lee.** [To appear in n Proceedings of AMS](https://arxiv.org/abs/2403.15973) 2024.
+[2] **Isoperimetric profile function comparisons with Integral Ricci curvature bounds, joint with J. Lee.** [To appear in Proceedings of AMS](https://arxiv.org/abs/2403.15973) 2024.
