@@ -2,7 +2,7 @@
 
 I am a PhD candidate in Mathematics at the University of California, Santa Barbara, where I work in Geometric Analysis under the guidance of [Prof. Guofang Wei](https://web.math.ucsb.edu/~wei/). 
 
-I am on the job market for positions starting Fall 2025.
+I am on the job market for positions starting Fall 2026.
 
 **Research Interests**:
 My research focuses on Geometric Analysis and Partial Differential Equations (PDEs), particularly leveraging techniques from Optimal Transport and Comparison Geometry to prove geometric inequalities.
