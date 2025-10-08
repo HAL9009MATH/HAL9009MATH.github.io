@@ -14,7 +14,7 @@ I'm as excited to share math as I am to study it, so I organize a Very Applied F
 
 I have also embarked on a journey to make the perfect pizza, although this is a lifetime journey. I am happy to share my progress.
 
-Feel free to reach out to me at [fabio@math.ucsb.edu](mailto:fabio@math.ucsb.edu). You can find my [CV here](CV.pdf).
+Feel free to reach out to me at [fabio@math.ucsb.edu](mailto:fabio@math.ucsb.edu). You can find my [CV here](CV2025.pdf).
 
 # Publications
 
