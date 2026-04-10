@@ -2,8 +2,6 @@
 
 I am a PhD candidate in Mathematics at the University of California, Santa Barbara, where I work in Geometric Analysis under the guidance of [Prof. Guofang Wei](https://web.math.ucsb.edu/~wei/). 
 
-I am on the job market for positions starting Fall 2026.
-
 **Research Interests**:
 My research focuses on Geometric Analysis and Partial Differential Equations (PDEs), particularly leveraging techniques from Optimal Transport and Comparison Geometry to prove geometric inequalities.
 I've been working in the non compact setting with non-negative k-intermediate Ricci curvature, an interpolation between Ricci and sectional curvature, I considered also the weaker asymptotic version of it. I've also been studying integral curvature which measures deviations of Ricci curvature from the lower bound in the \$L_p\$ sense.
