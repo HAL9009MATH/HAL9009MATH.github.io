@@ -1,6 +1,8 @@
 # Ciao!!
 
-I am a Math Fellow in Mathematics at the University of California, Santa Cruz, where I work in Geometric Analysis under the supervision of Prof. Jayin Pan and Prof. Jie Qing. I received my PhD in Mathematics from the University of California, Santa Barbara in 2026 under the supervision of [Prof. Guofang Wei](https://web.math.ucsb.edu/~wei/).
+I am a Math Fellow in Mathematics at the University of California, Santa Cruz, where I work in Geometric Analysis under the supervision of [Prof. Jiayin Pan](https://jypan10.github.io/) and [Prof. Jie Qing](https://qing.sites.ucsc.edu/).
+
+I received my PhD in Mathematics from the University of California, Santa Barbara in 2026 under the supervision of [Prof. Guofang Wei](https://web.math.ucsb.edu/~wei/).
 
 **Research Interests**:
 My research focuses on Geometric Analysis and Partial Differential Equations (PDEs), particularly leveraging techniques from Optimal Transport and Comparison Geometry to prove geometric inequalities.

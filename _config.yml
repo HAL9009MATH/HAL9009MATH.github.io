@@ -3,7 +3,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 logo: /assets/Fabio.jpeg
 
 title: Fabio Ricci
-description: Math PhD Student
+description: Math Fellow
 
 github:
   is_project_page: false
