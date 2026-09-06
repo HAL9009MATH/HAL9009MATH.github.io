@@ -1,16 +1,14 @@
 # Ciao!!
 
-I am a Math Fellow in Mathematics at the University of California, Santa Cruz, where I work in Geometric Analysis under the supervision of [Prof. Jiayin Pan](https://jypan10.github.io/) and [Prof. Jie Qing](https://qing.sites.ucsc.edu/).
+I am a Math Fellow at the University of California, Santa Cruz, where I work in geometric analysis with [Prof. Jiayin Pan](https://jypan10.github.io/) and [Prof. Jie Qing](https://qing.sites.ucsc.edu/).
 
-I received my PhD in Mathematics from the University of California, Santa Barbara in 2026 under the supervision of [Prof. Guofang Wei](https://web.math.ucsb.edu/~wei/).
+I received my PhD in Mathematics from the University of California, Santa Barbara in 2026, advised by [Prof. Guofang Wei](https://web.math.ucsb.edu/~wei/).
 
-**Research Interests**:
-My research focuses on Geometric Analysis and Partial Differential Equations (PDEs), particularly leveraging techniques from Optimal Transport and Comparison Geometry to prove geometric inequalities.
-I've been working in the non compact setting with non-negative k-intermediate Ricci curvature, an interpolation between Ricci and sectional curvature, I considered also the weaker asymptotic version of it. I've also been studying integral curvature which measures deviations of Ricci curvature from the lower bound in the \$L_p\$ sense.
+**Research Interests:** My research focuses on geometric analysis and partial differential equations. I use techniques from optimal transport and comparison geometry to prove geometric inequalities, particularly in the noncompact setting. I study nonnegative \$k\$-intermediate Ricci curvature, which interpolates between Ricci and sectional curvature, and asymptotic versions of these bounds. I also study integral Ricci curvature bounds, which measure deviations from a lower bound in an \$L_p\$ sense, as well as spectral Ricci lower bounds.
 
 I received the [2024 UC Santa Barbara Academic Senate outstanding teaching award](https://senate.ucsb.edu/~awards/2023-24/),the [2025 Department of Mathematics Direct Reading Program Mentor’s Choice Award](https://www.ucsbdrp.org/) the [2024 Department of Mathematics Direct Reading Program Mentor’s Choice Award](https://www.ucsbdrp.org/) ([Poster](Curvature_Done_Optimally.pdf)), [2023 UCSB Grad slam People Choice Award](https://gradslam.ucsb.edu/past-showcases/2023) ([Video](https://www.youtube.com/live/7XHcjPohTRQ?si=64jPsAc9kK4rlZki&t=2684)) and the 2021 Department of Mathematics Outstanding Teaching assistant award.
 
-I'm as excited to share math as I am to study it, so I organize a Very Applied Fluid Dynamics seminar which involves the careful study of solution composed by approximately 95% water. 
+I'm as excited to share math as I am to study it, so I organize a [Very Applied Fluid Dynamics seminar](/vafd/) which involves the careful study of solution composed by approximately 95% water.
 
 I have also embarked on a journey to make the perfect pizza, although this is a lifetime journey. I am happy to share my progress.
 
