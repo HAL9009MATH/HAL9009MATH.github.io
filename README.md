@@ -1,6 +1,6 @@
 # Ciao!!
 
-I am a Math Fellow at the University of California, Santa Cruz, where I work in geometric analysis with [Prof. Jiayin Pan](https://jypan10.github.io/) and [Prof. Jie Qing](https://qing.sites.ucsc.edu/).
+I am a Math Fellow at the University of California, Santa Cruz, where I work in geometric analysis under the supervision of [Prof. Jiayin Pan](https://jypan10.github.io/) and [Prof. Jie Qing](https://qing.sites.ucsc.edu/).
 
 I received my PhD in Mathematics from the University of California, Santa Barbara in 2026, advised by [Prof. Guofang Wei](https://web.math.ucsb.edu/~wei/).
 
